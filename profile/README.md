@@ -4,9 +4,9 @@
 
 Hey there! 👋 Welcome to CloudMouse - where we're building the next generation of smart IoT devices that are actually smart, not just "connect-to-wifi" smart.
 
-## What's This All About?
+## What's this all about?
 
-CloudMouse is a complete ecosystem for creating ESP32-based IoT devices that seamlessly integrate with cloud services. We're talking real-time data, WebSocket magic, beautiful LVGL interfaces, and hardware that doesn't suck.
+[CloudMouse](https://cloudmouse.co) is a complete ecosystem for creating ESP32-based IoT devices that seamlessly integrate with cloud services. We're talking real-time data, WebSocket magic, beautiful LVGL interfaces, and hardware that doesn't suck.
 
 Our stack:
 - **Hardware**: ESP32-S3 custom boards with PSRAM
@@ -14,7 +14,7 @@ Our stack:
 - **Cloud**: Real-time WebSocket connections, device management, data pipelines
 - **Apps**: Home Assistant integration, Forex tracking, weather stations, emergency alerts, and more
 
-## What You'll Find Here
+## What you'll find here
 
 Browse our repos to discover:
 
